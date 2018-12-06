@@ -1,2 +1,2 @@
 # APCSPrograms
-Programs in my APCS class.
+Programs created in my APCS class.
