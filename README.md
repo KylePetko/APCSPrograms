@@ -1,2 +1,2 @@
 # APCSPrograms
-Programs created during my APCS class in school.
+Programs in my APCS class.
